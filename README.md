@@ -4,6 +4,7 @@ Binary Samples of Mimikatz Collision
 
 ; Generated on 06/19/15 at 09:56:07
 ;
+
 060900a749b2fcca06c9631dd561a032 *a
 
 436a66f6d45631a9623525ca3d5fa9aa *angel.exe
