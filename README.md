@@ -4,7 +4,7 @@ Reference Here: http://natmchugh.blogspot.com/2015/02/create-your-own-md5-collis
 Reference: https://marc-stevens.nl
 Reference: http://natmchugh.blogspot.com/2015/05/how-to-make-two-binaries-with-same-md5.html
 
-THis is merely the application of these techniques.  I did not discover them, merely applied them.
+This is merely the application of these techniques.  I did not discover them, merely applied them.
 
 
 Binary Samples of Mimikatz Collision
