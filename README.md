@@ -1,4 +1,8 @@
 # MimikatzMD5Collision
+
+Reference Here: http://natmchugh.blogspot.com/2015/02/create-your-own-md5-collisions.html
+
+
 Binary Samples of Mimikatz Collision
 
 
